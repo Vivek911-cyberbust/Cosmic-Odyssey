@@ -1,0 +1,6 @@
+{
+  "name": "Cosmic Odyssey",
+  "description": "An endless retro style space shooter and dodger game with high scores, spaceship upgrades, power-ups, and immersive visuals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
